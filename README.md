@@ -1,6 +1,7 @@
 # G_ObjectsRot
-Script created by Gantzyo
 [![sampctl](https://img.shields.io/badge/sampctl-G_ObjectsRot-2f2f2f.svg?style=for-the-badge)](https://github.com/neetoons/G_ObjectsRot)
+
+Script created by [Gantzyo](https://github.com/Gantzyo)
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
