@@ -1,5 +1,5 @@
 # G_ObjectsRot
-
+Script created by Gantzyo
 [![sampctl](https://img.shields.io/badge/sampctl-G_ObjectsRot-2f2f2f.svg?style=for-the-badge)](https://github.com/neetoons/G_ObjectsRot)
 
 <!--
