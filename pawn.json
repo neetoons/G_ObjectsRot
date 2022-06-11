@@ -1,0 +1,10 @@
+{
+	"user": "neetoons",
+	"repo": "G_ObjectsRot",
+	"tag": "1.0.0",
+	"entry": "G_ObjectsRot.pwn",
+	"output": "gamemodes/G_ObjectsRot.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
